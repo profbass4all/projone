@@ -7,7 +7,7 @@ function Course() {
         parts: [
             {
                 name: 'Fundamentals of React',
-                exercises: 10,
+                exercises: 100,
                 id:1
             },
             {
