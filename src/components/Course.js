@@ -12,12 +12,12 @@ function Course() {
             },
             {
                 name: 'Using Props to pass data',
-                exercises: 7,
+                exercises: 70,
                 id: 2
             },
             {
                 name: 'State of a Component',
-                exercises: 19,
+                exercises: 190,
                 id:3
             },
             {
